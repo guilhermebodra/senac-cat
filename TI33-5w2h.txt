@@ -15,9 +15,10 @@
 
 
  - Quando devo usar o GitHub?
-
+O tempo todo, quando estiver desenvolvendo, tiver duvidas e ou apenas aprender ou ajudar/vivia
 
  - Como posso usar o GitHub?
-
+É necessário criar uma conta e depois um repositório. Então você cria tudo a partir do seu computador/vivia
 
  - Quanto custa para usar o GitHub?
+Tem a versão gratuita e paga/vivia
